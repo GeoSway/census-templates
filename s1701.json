@@ -1,0 +1,11 @@
+{
+  "dataset": "acs/acs5/subject",
+  "id": "s1701",
+  "table": "S1701",
+  "title": "Poverty Status in the Past 12 Months",
+  "variables": [
+    { "code": "S1701_C01_001E", "friendlyName": "Population for whom poverty status is determined", "category": "Poverty", "valueType": "Estimate" },
+    { "code": "S1701_C02_001E", "friendlyName": "Below poverty level (estimate)", "category": "Poverty", "valueType": "Estimate" },
+    { "code": "S1701_C03_001E", "friendlyName": "Below poverty level (percent)", "category": "Poverty", "valueType": "Percent" }
+  ]
+}
