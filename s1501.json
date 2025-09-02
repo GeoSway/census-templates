@@ -1,0 +1,11 @@
+{
+  "dataset": "acs/acs5/subject",
+  "id": "s1501",
+  "table": "S1501",
+  "title": "Educational Attainment",
+  "variables": [
+    { "code": "S1501_C02_015E", "friendlyName": "High school graduate or higher (percent)", "category": "Education", "valueType": "Percent" },
+    { "code": "S1501_C02_016E", "friendlyName": "Bachelor’s degree or higher (percent)", "category": "Education", "valueType": "Percent" },
+    { "code": "S1501_C01_001E", "friendlyName": "Population 25 years and over", "category": "Education", "valueType": "Estimate" }
+  ]
+}
