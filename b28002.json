@@ -1,0 +1,11 @@
+{
+  "dataset": "acs/acs5",
+  "id": "b28002",
+  "table": "B28002",
+  "title": "Presence and Types of Internet Subscriptions",
+  "variables": [
+    { "code": "B28002_001E", "friendlyName": "Total households", "category": "Internet & Devices", "valueType": "Estimate" },
+    { "code": "B28002_002E", "friendlyName": "With an Internet subscription", "category": "Internet & Devices", "valueType": "Estimate" },
+    { "code": "B28002_013E", "friendlyName": "Without an Internet subscription", "category": "Internet & Devices", "valueType": "Estimate" }
+  ]
+}
