@@ -1,0 +1,11 @@
+{
+  "dataset": "acs/acs5/subject",
+  "id": "s1810",
+  "table": "S1810",
+  "title": "Disability Characteristics",
+  "variables": [
+    { "code": "S1810_C01_001E", "friendlyName": "Civilian noninstitutionalized population", "category": "Disability", "valueType": "Estimate" },
+    { "code": "S1810_C02_001E", "friendlyName": "With a disability (percent)", "category": "Disability", "valueType": "Percent" },
+    { "code": "S1810_C02_006E", "friendlyName": "65 years and over with a disability (percent)", "category": "Disability", "valueType": "Percent" }
+  ]
+}
