@@ -1,0 +1,11 @@
+{
+  "dataset": "acs/acs5/subject",
+  "id": "s1101",
+  "table": "S1101",
+  "title": "Households and Families",
+  "variables": [
+    { "code": "S1101_C01_001E", "friendlyName": "Total households", "category": "Households", "valueType": "Estimate" },
+    { "code": "S1101_C01_002E", "friendlyName": "Average household size", "category": "Households", "valueType": "Estimate" },
+    { "code": "S1101_C01_004E", "friendlyName": "Family households", "category": "Households", "valueType": "Estimate" }
+  ]
+}
