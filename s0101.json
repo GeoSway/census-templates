@@ -1,0 +1,11 @@
+{
+  "dataset": "acs/acs5/subject",
+  "id": "s0101",
+  "table": "S0101",
+  "title": "Age and Sex",
+  "variables": [
+    { "code": "S0101_C01_001E", "friendlyName": "Total population", "category": "Age & Sex", "valueType": "Estimate" },
+    { "code": "S0101_C01_002E", "friendlyName": "Median age", "category": "Age & Sex", "valueType": "Estimate" },
+    { "code": "S0101_C01_026E", "friendlyName": "Population 65 years and over", "category": "Age & Sex", "valueType": "Estimate" }
+  ]
+}
