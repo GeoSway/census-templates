@@ -1,0 +1,10 @@
+{
+  "dataset": "acs/acs5",
+  "id": "b25077",
+  "table": "B25077",
+  "title": "Median Value (Dollars)",
+  "variables": [
+    { "code": "B25077_001E", "friendlyName": "Median home value (dollars)", "category": "Housing Value", "valueType": "Estimate" },
+    { "code": "B25077_001M", "friendlyName": "Median home value MOE", "category": "Housing Value", "valueType": "MOE" }
+  ]
+}
