@@ -1,0 +1,13 @@
+{
+  "dataset": "acs/acs5/profile",
+  "id": "dp02",
+  "table": "DP02",
+  "title": "Selected Social Characteristics",
+  "variables": [
+    { "code": "DP02_0001E", "friendlyName": "Total households", "category": "Households", "valueType": "Estimate" },
+    { "code": "DP02_0067E", "friendlyName": "High school graduate or higher", "category": "Education", "valueType": "Estimate" },
+    { "code": "DP02_0068E", "friendlyName": "Bachelor’s degree or higher", "category": "Education", "valueType": "Estimate" },
+    { "code": "DP02_0153E", "friendlyName": "With a computer", "category": "Internet & Devices", "valueType": "Estimate" },
+    { "code": "DP02_0154E", "friendlyName": "With a broadband Internet subscription", "category": "Internet & Devices", "valueType": "Estimate" }
+  ]
+}
