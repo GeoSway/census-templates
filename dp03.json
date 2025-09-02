@@ -1,0 +1,13 @@
+{
+  "dataset": "acs/acs5/profile",
+  "id": "dp03",
+  "table": "DP03",
+  "title": "Selected Economic Characteristics",
+  "variables": [
+    { "code": "DP03_0002E", "friendlyName": "Civilian labor force", "category": "Labor Force", "valueType": "Estimate" },
+    { "code": "DP03_0004E", "friendlyName": "Employed", "category": "Labor Force", "valueType": "Estimate" },
+    { "code": "DP03_0005E", "friendlyName": "Unemployed", "category": "Labor Force", "valueType": "Estimate" },
+    { "code": "DP03_0009PE", "friendlyName": "Unemployment rate", "category": "Labor Force", "valueType": "Percent" },
+    { "code": "DP03_0062E", "friendlyName": "Median household income (dollars)", "category": "Income", "valueType": "Estimate" }
+  ]
+}
