@@ -1,0 +1,25 @@
+{
+  "id": "dp05",
+  "dataset": "acs/acs5/profile",
+  "table": "DP05",
+  "title": "Demographic Profile",
+  "variables": [
+    { "code": "DP05_0001E", "friendlyName": "Total Population", "category": "Demographics", "valueType": "Estimate" },
+    { "code": "DP05_0002E", "friendlyName": "Male Population", "category": "Sex and Age", "valueType": "Estimate" },
+    { "code": "DP05_0003E", "friendlyName": "Female Population", "category": "Sex and Age", "valueType": "Estimate" },
+    { "code": "DP05_0005E", "friendlyName": "Population Under 5 years", "category": "Sex and Age", "valueType": "Estimate" },
+    { "code": "DP05_0006E", "friendlyName": "Population 5 to 9 years", "category": "Sex and Age", "valueType": "Estimate" },
+    { "code": "DP05_0007E", "friendlyName": "Population 10 to 14 years", "category": "Sex and Age", "valueType": "Estimate" },
+    { "code": "DP05_0009E", "friendlyName": "Population 18 years and over", "category": "Sex and Age", "valueType": "Estimate" },
+    { "code": "DP05_0018E", "friendlyName": "Median age (years)", "category": "Sex and Age", "valueType": "Estimate" },
+    { "code": "DP05_0033E", "friendlyName": "Total Housing Units", "category": "Housing", "valueType": "Estimate" },
+    { "code": "DP05_0037E", "friendlyName": "White Population", "category": "Race", "valueType": "Estimate" },
+    { "code": "DP05_0038E", "friendlyName": "Black or African American Population", "category": "Race", "valueType": "Estimate" },
+    { "code": "DP05_0039E", "friendlyName": "American Indian and Alaska Native Population", "category": "Race", "valueType": "Estimate" },
+    { "code": "DP05_0044E", "friendlyName": "Asian Population", "category": "Race", "valueType": "Estimate" },
+    { "code": "DP05_0052E", "friendlyName": "Native Hawaiian and Other Pacific Islander Population", "category": "Race", "valueType": "Estimate" },
+    { "code": "DP05_0057E", "friendlyName": "Some Other Race Population", "category": "Race", "valueType": "Estimate" },
+    { "code": "DP05_0058E", "friendlyName": "Two or More Races Population", "category": "Race", "valueType": "Estimate" },
+    { "code": "DP05_0071E", "friendlyName": "Hispanic or Latino Population (of any race)", "category": "Hispanic or Latino Origin", "valueType": "Estimate" }
+  ]
+}
