@@ -1,0 +1,11 @@
+{
+  "dataset": "acs/acs5",
+  "id": "b25003",
+  "table": "B25003",
+  "title": "Tenure",
+  "variables": [
+    { "code": "B25003_001E", "friendlyName": "Total", "category": "Tenure", "valueType": "Estimate" },
+    { "code": "B25003_002E", "friendlyName": "Owner-occupied", "category": "Tenure", "valueType": "Estimate" },
+    { "code": "B25003_003E", "friendlyName": "Renter-occupied", "category": "Tenure", "valueType": "Estimate" }
+  ]
+}
