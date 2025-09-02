@@ -1,0 +1,11 @@
+{
+  "dataset": "acs/acs5/subject",
+  "id": "s1601",
+  "table": "S1601",
+  "title": "Language Spoken at Home",
+  "variables": [
+    { "code": "S1601_C01_001E", "friendlyName": "Population 5 years and over", "category": "Language", "valueType": "Estimate" },
+    { "code": "S1601_C02_001E", "friendlyName": "Speak a language other than English at home", "category": "Language", "valueType": "Percent" },
+    { "code": "S1601_C03_001E", "friendlyName": "Speak English less than \"very well\"", "category": "Language", "valueType": "Percent" }
+  ]
+}
