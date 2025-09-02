@@ -1,0 +1,13 @@
+{
+  "dataset": "acs/acs5",
+  "id": "b01001",
+  "table": "B01001",
+  "title": "Sex by Age",
+  "variables": [
+    { "code": "B01001_001E", "friendlyName": "Total", "category": "Age & Sex", "valueType": "Estimate" },
+    { "code": "B01001_002E", "friendlyName": "Male", "category": "Age & Sex", "valueType": "Estimate" },
+    { "code": "B01001_026E", "friendlyName": "Female", "category": "Age & Sex", "valueType": "Estimate" },
+    { "code": "B01001_003E", "friendlyName": "Under 5 years", "category": "Age & Sex", "valueType": "Estimate" },
+    { "code": "B01001_025E", "friendlyName": "85 years and over", "category": "Age & Sex", "valueType": "Estimate" }
+  ]
+}
