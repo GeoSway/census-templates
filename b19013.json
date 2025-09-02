@@ -1,0 +1,11 @@
+{
+  "dataset": "acs/acs5",
+  "id": "b19013",
+  "table": "B19013",
+  "title": "Median Household Income in the Past 12 Months",
+  "variables": [
+    { "code": "B19013_001E", "friendlyName": "Median household income (dollars)", "category": "Income", "valueType": "Estimate" },
+    { "code": "B19013_002E", "friendlyName": "Median household income (MOE dollars)", "category": "Income", "valueType": "Estimate" },
+    { "code": "B19013_001M", "friendlyName": "Median household income MOE", "category": "Income", "valueType": "MOE" }
+  ]
+}
