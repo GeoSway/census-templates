@@ -1,0 +1,162 @@
+[
+  {
+    "id": "dp02",
+    "title": "Selected Social Characteristics",
+    "dataset": "acs/acs5/profile",
+    "table": "DP02",
+    "variables": [
+      { "code": "DP02_0001E", "friendlyName": "Total households", "category": "Households", "valueType": "Estimate" },
+      { "code": "DP02_0067E", "friendlyName": "High school graduate or higher", "category": "Education", "valueType": "Estimate" },
+      { "code": "DP02_0068E", "friendlyName": "Bachelor’s degree or higher", "category": "Education", "valueType": "Estimate" },
+      { "code": "DP02_0153E", "friendlyName": "With a computer", "category": "Internet & Devices", "valueType": "Estimate" },
+      { "code": "DP02_0154E", "friendlyName": "With a broadband Internet subscription", "category": "Internet & Devices", "valueType": "Estimate" }
+    ]
+  },
+  {
+    "id": "dp03",
+    "title": "Selected Economic Characteristics",
+    "dataset": "acs/acs5/profile",
+    "table": "DP03",
+    "variables": [
+      { "code": "DP03_0002E", "friendlyName": "Civilian labor force", "category": "Labor Force", "valueType": "Estimate" },
+      { "code": "DP03_0004E", "friendlyName": "Employed", "category": "Labor Force", "valueType": "Estimate" },
+      { "code": "DP03_0005E", "friendlyName": "Unemployed", "category": "Labor Force", "valueType": "Estimate" },
+      { "code": "DP03_0009PE", "friendlyName": "Unemployment rate", "category": "Labor Force", "valueType": "Percent" },
+      { "code": "DP03_0062E", "friendlyName": "Median household income (dollars)", "category": "Income", "valueType": "Estimate" }
+    ]
+  },
+  {
+    "id": "dp04",
+    "title": "Selected Housing Characteristics",
+    "dataset": "acs/acs5/profile",
+    "table": "DP04",
+    "variables": [
+      { "code": "DP04_0001E", "friendlyName": "Housing units", "category": "Housing", "valueType": "Estimate" },
+      { "code": "DP04_0002E", "friendlyName": "Occupied housing units", "category": "Housing", "valueType": "Estimate" },
+      { "code": "DP04_0003E", "friendlyName": "Vacant housing units", "category": "Housing", "valueType": "Estimate" },
+      { "code": "DP04_0089PE", "friendlyName": "Occupied units with broadband", "category": "Internet & Devices", "valueType": "Percent" }
+    ]
+  },
+  {
+    "id": "s0101",
+    "title": "Age and Sex",
+    "dataset": "acs/acs5/subject",
+    "table": "S0101",
+    "variables": [
+      { "code": "S0101_C01_001E", "friendlyName": "Total population", "category": "Age & Sex", "valueType": "Estimate" },
+      { "code": "S0101_C01_002E", "friendlyName": "Median age", "category": "Age & Sex", "valueType": "Estimate" },
+      { "code": "S0101_C01_026E", "friendlyName": "Population 65 years and over", "category": "Age & Sex", "valueType": "Estimate" }
+    ]
+  },
+  {
+    "id": "s1101",
+    "title": "Households and Families",
+    "dataset": "acs/acs5/subject",
+    "table": "S1101",
+    "variables": [
+      { "code": "S1101_C01_001E", "friendlyName": "Total households", "category": "Households", "valueType": "Estimate" },
+      { "code": "S1101_C01_002E", "friendlyName": "Average household size", "category": "Households", "valueType": "Estimate" },
+      { "code": "S1101_C01_004E", "friendlyName": "Family households", "category": "Households", "valueType": "Estimate" }
+    ]
+  },
+  {
+    "id": "s1501",
+    "title": "Educational Attainment",
+    "dataset": "acs/acs5/subject",
+    "table": "S1501",
+    "variables": [
+      { "code": "S1501_C02_015E", "friendlyName": "High school graduate or higher (percent)", "category": "Education", "valueType": "Percent" },
+      { "code": "S1501_C02_016E", "friendlyName": "Bachelor’s degree or higher (percent)", "category": "Education", "valueType": "Percent" },
+      { "code": "S1501_C01_001E", "friendlyName": "Population 25 years and over", "category": "Education", "valueType": "Estimate" }
+    ]
+  },
+  {
+    "id": "s1701",
+    "title": "Poverty Status in the Past 12 Months",
+    "dataset": "acs/acs5/subject",
+    "table": "S1701",
+    "variables": [
+      { "code": "S1701_C01_001E", "friendlyName": "Population for whom poverty status is determined", "category": "Poverty", "valueType": "Estimate" },
+      { "code": "S1701_C02_001E", "friendlyName": "Below poverty level (estimate)", "category": "Poverty", "valueType": "Estimate" },
+      { "code": "S1701_C03_001E", "friendlyName": "Below poverty level (percent)", "category": "Poverty", "valueType": "Percent" }
+    ]
+  },
+  {
+    "id": "s1601",
+    "title": "Language Spoken at Home",
+    "dataset": "acs/acs5/subject",
+    "table": "S1601",
+    "variables": [
+      { "code": "S1601_C01_001E", "friendlyName": "Population 5 years and over", "category": "Language", "valueType": "Estimate" },
+      { "code": "S1601_C02_001E", "friendlyName": "Speak a language other than English at home", "category": "Language", "valueType": "Percent" },
+      { "code": "S1601_C03_001E", "friendlyName": "Speak English less than \"very well\"", "category": "Language", "valueType": "Percent" }
+    ]
+  },
+  {
+    "id": "s1810",
+    "title": "Disability Characteristics",
+    "dataset": "acs/acs5/subject",
+    "table": "S1810",
+    "variables": [
+      { "code": "S1810_C01_001E", "friendlyName": "Civilian noninstitutionalized population", "category": "Disability", "valueType": "Estimate" },
+      { "code": "S1810_C02_001E", "friendlyName": "With a disability (percent)", "category": "Disability", "valueType": "Percent" },
+      { "code": "S1810_C02_006E", "friendlyName": "65 years and over with a disability (percent)", "category": "Disability", "valueType": "Percent" }
+    ]
+  },
+  {
+    "id": "b01001",
+    "title": "Sex by Age",
+    "dataset": "acs/acs5",
+    "table": "B01001",
+    "variables": [
+      { "code": "B01001_001E", "friendlyName": "Total", "category": "Age & Sex", "valueType": "Estimate" },
+      { "code": "B01001_002E", "friendlyName": "Male", "category": "Age & Sex", "valueType": "Estimate" },
+      { "code": "B01001_026E", "friendlyName": "Female", "category": "Age & Sex", "valueType": "Estimate" },
+      { "code": "B01001_003E", "friendlyName": "Under 5 years", "category": "Age & Sex", "valueType": "Estimate" },
+      { "code": "B01001_025E", "friendlyName": "85 years and over", "category": "Age & Sex", "valueType": "Estimate" }
+    ]
+  },
+  {
+    "id": "b19013",
+    "title": "Median Household Income in the Past 12 Months",
+    "dataset": "acs/acs5",
+    "table": "B19013",
+    "variables": [
+      { "code": "B19013_001E", "friendlyName": "Median household income (dollars)", "category": "Income", "valueType": "Estimate" },
+      { "code": "B19013_002E", "friendlyName": "Median household income (MOE dollars)", "category": "Income", "valueType": "Estimate" },
+      { "code": "B19013_001M", "friendlyName": "Median household income MOE", "category": "Income", "valueType": "MOE" }
+    ]
+  },
+  {
+    "id": "b25003",
+    "title": "Tenure",
+    "dataset": "acs/acs5",
+    "table": "B25003",
+    "variables": [
+      { "code": "B25003_001E", "friendlyName": "Total", "category": "Tenure", "valueType": "Estimate" },
+      { "code": "B25003_002E", "friendlyName": "Owner-occupied", "category": "Tenure", "valueType": "Estimate" },
+      { "code": "B25003_003E", "friendlyName": "Renter-occupied", "category": "Tenure", "valueType": "Estimate" }
+    ]
+  },
+  {
+    "id": "b25077",
+    "title": "Median Value (Dollars)",
+    "dataset": "acs/acs5",
+    "table": "B25077",
+    "variables": [
+      { "code": "B25077_001E", "friendlyName": "Median home value (dollars)", "category": "Housing Value", "valueType": "Estimate" },
+      { "code": "B25077_001M", "friendlyName": "Median home value MOE", "category": "Housing Value", "valueType": "MOE" }
+    ]
+  },
+  {
+    "id": "b28002",
+    "title": "Presence and Types of Internet Subscriptions",
+    "dataset": "acs/acs5",
+    "table": "B28002",
+    "variables": [
+      { "code": "B28002_001E", "friendlyName": "Total households", "category": "Internet & Devices", "valueType": "Estimate" },
+      { "code": "B28002_002E", "friendlyName": "With an Internet subscription", "category": "Internet & Devices", "valueType": "Estimate" },
+      { "code": "B28002_013E", "friendlyName": "Without an Internet subscription", "category": "Internet & Devices", "valueType": "Estimate" }
+    ]
+  }
+]
