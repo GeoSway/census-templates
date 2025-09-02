@@ -1,0 +1,12 @@
+{
+  "dataset": "acs/acs5/profile",
+  "id": "dp04",
+  "table": "DP04",
+  "title": "Selected Housing Characteristics",
+  "variables": [
+    { "code": "DP04_0001E", "friendlyName": "Housing units", "category": "Housing", "valueType": "Estimate" },
+    { "code": "DP04_0002E", "friendlyName": "Occupied housing units", "category": "Housing", "valueType": "Estimate" },
+    { "code": "DP04_0003E", "friendlyName": "Vacant housing units", "category": "Housing", "valueType": "Estimate" },
+    { "code": "DP04_0089PE", "friendlyName": "Occupied units with broadband", "category": "Internet & Devices", "valueType": "Percent" }
+  ]
+}
